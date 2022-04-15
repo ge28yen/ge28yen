@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ge28yen
+- 👋 Hi, I’m @ge28yen, aka Michal Cherczynski
 - 👀 I’m interested in quantum computing, quantum simulation, quantum optimization
 - 💞️ I’m looking to collaborate on all quantum and similar!
 - 📫 How to reach me : michal.cherczynski@gmail.com
