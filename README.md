@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ge28yen, aka Michal Cherczynski
-- 👀 I’m interested in quantum computing, quantum simulation, quantum optimization
-- 💞️ I’m looking to collaborate on all quantum and similar!
+- 👀 I’m interested in AI, LLMs, especially usecase-specific applications thereof
+- 💞️ I’m looking to collaborate on all AI and similar!
 - 📫 How to reach me : michal.cherczynski@gmail.com
 
 <!---
