@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ge28yen, aka Michal Cherczynski
-- 👀 I’m interested in AI, LLMs, especially usecase-specific applications thereof
+- 👀 I’m interested in AI for Physics, and LLMs
 - 💞️ I’m looking to collaborate on all AI and similar!
 - 📫 How to reach me : michal.cherczynski@gmail.com
 
